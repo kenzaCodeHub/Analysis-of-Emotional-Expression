@@ -1,4 +1,4 @@
-# Multimodal Emotion Recognition — Big Data Project
+# Multimodal Emotion Recognition
 
 A project combining **text** and **image** modalities for emotion classification, then analyzing the alignment between both predictions using statistical correlation.
 
